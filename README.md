@@ -68,20 +68,6 @@ Once installed, the skill activates automatically when Claude Code detects QMS-r
 10. Design Review Checklist
 11. IEC 62304 Traceability Matrix
 
-## Related
-
-This skill was built for the [Medly CRM](https://github.com/jcafazzo) project — an intelligent GDMT titration platform for cardiorenal metabolic disease.
-
-**Boehringer Ingelheim sponsor presentation:**
-The progress deck is in the main Medly CRM repo at [`presentation/index.html`](https://github.com/jcafazzo/medly-CRM/blob/main/presentation/index.html). Serve locally with:
-
-```bash
-cd presentation && python3 -m http.server 8888
-```
-
-**Live deployed apps:**
-- Dashboard (clinician): `main.d5vy66xobzmnw.amplifyapp.com`
-- Patient app (web): `main.d2h2h5b4flll3r.amplifyapp.com`
 
 ## License
 
